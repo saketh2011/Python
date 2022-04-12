@@ -1,0 +1,17 @@
+print ("Hello")
+num1 = int(input("Enter Number: "))
+num2 = int(input("Enter Number: "))
+sign = str(input("Choose +,/,*,**,-"))
+
+if sign == +:
+  print("num1 + num2")
+if sign == /
+  print("num1 / num2")
+if sign == *
+  print("num1*num2")
+if sign == **
+  print("num1**num2")
+if sign == -
+  print("num1 - num2")
+else:
+  print("Sorry.Error.Try Again.")
