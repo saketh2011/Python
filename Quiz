@@ -1,0 +1,8 @@
+print("Hello")
+thing = int(input("What's your 5x4?"))
+if thing == 20:
+  print("CORRECT!")
+else:
+  print("Wrong,Try Again")
+anothertihng = str(input("What's the smallest piece of matter"))
+if anotherthing
